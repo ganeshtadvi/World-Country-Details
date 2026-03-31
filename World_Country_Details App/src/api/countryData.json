@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "countryName": "World",
+    "capital": "Null",
+    "population": "Null",
+    "interestingFact": "There are 195 countries in the world today, including 193 United Nations member states and 2 observer states."
+  },
+  {
+    "id": 2,
+    "countryName": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "interestingFact": "Nepal is home to Mount Everest, the tallest mountain in the world, standing at 8,848 meters."
+  },
+  {
+    "id": 3,
+    "countryName": "Egypt",
+    "capital": "Cairo",
+    "population": 104258327,
+    "interestingFact": "The Pyramids of Giza are one of the Seven Wonders of the Ancient World."
+  },
+  {
+    "id": 4,
+    "countryName": "Australia",
+    "capital": "Canberra",
+    "population": 25687041,
+    "interestingFact": "Australia is home to the Great Barrier Reef, the largest coral reef system in the world."
+  },
+  {
+    "id": 5,
+    "countryName": "Brazil",
+    "capital": "Brasilia",
+    "population": 213993437,
+    "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 6,
+    "countryName": "France",
+    "capital": "Paris",
+    "population": 67407241,
+    "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+  },
+  {
+    "id": 7,
+    "countryName": "Russia",
+    "capital": "Moscow",
+    "population": 1324216107,
+    "interestingFact": "Russia is the largest country in the world by area, covering more than 17 million square kilometers."
+  },
+  {
+    "id": 8,
+    "countryName": "China",
+    "capital": "Beijing",
+    "population": 1444216107,
+    "interestingFact": "The Great Wall of China is visible from space on rare occasions."
+  },
+  {
+    "id": 9,
+    "countryName": "India",
+    "capital": "New Delhi",
+    "population": 1438069596,
+    "interestingFact": "India is the largest democracy in the world."
+  },
+  {
+    "id": 10,
+    "countryName": "United States",
+    "capital": "Washington, D.C.",
+    "population": 331893745,
+    "interestingFact": "The US has the largest economy in the world."
+  },
+  {
+    "id": 11,
+    "countryName": "Japan",
+    "capital": "Tokyo",
+    "population": 125836021,
+    "interestingFact": "Japan has more than 6,800 islands."
+  },
+  {
+    "id": 12,
+    "countryName": "Germany",
+    "capital": "Berlin",
+    "population": 83240525,
+    "interestingFact": "Germany is known for its engineering and automotive industry."
+  },
+  {
+    "id": 13,
+    "countryName": "United Kingdom",
+    "capital": "London",
+    "population": 67215293,
+    "interestingFact": "The UK includes England, Scotland, Wales, and Northern Ireland."
+  },
+  {
+    "id": 14,
+    "countryName": "Italy",
+    "capital": "Rome",
+    "population": 59554023,
+    "interestingFact": "Rome was the center of the ancient Roman Empire."
+  },
+  {
+    "id": 15,
+    "countryName": "Canada",
+    "capital": "Ottawa",
+    "population": 38246108,
+    "interestingFact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 16,
+    "countryName": "South Korea",
+    "capital": "Seoul",
+    "population": 51780579,
+    "interestingFact": "South Korea is famous for K-pop and technology."
+  },
+  {
+    "id": 17,
+    "countryName": "Saudi Arabia",
+    "capital": "Riyadh",
+    "population": 35950396,
+    "interestingFact": "It is the largest country in the Middle East."
+  },
+  {
+    "id": 18,
+    "countryName": "South Africa",
+    "capital": "Pretoria",
+    "population": 59308690,
+    "interestingFact": "South Africa has three capital cities."
+  },
+  {
+    "id": 19,
+    "countryName": "Mexico",
+    "capital": "Mexico City",
+    "population": 126014024,
+    "interestingFact": "Mexico is home to ancient civilizations like the Maya and Aztecs."
+  },
+  {
+    "id": 20,
+    "countryName": "Indonesia",
+    "capital": "Jakarta",
+    "population": 277534122,
+    "interestingFact": "Indonesia is the largest island country in the world."
+  },
+  {
+    "id": 21,
+    "countryName": "Turkey",
+    "capital": "Ankara",
+    "population": 85372377,
+    "interestingFact": "Turkey lies on two continents: Europe and Asia."
+  },
+  {
+    "id": 22,
+    "countryName": "Argentina",
+    "capital": "Buenos Aires",
+    "population": 45195774,
+    "interestingFact": "Argentina is famous for tango dance."
+  },
+  {
+    "id": 23,
+    "countryName": "Spain",
+    "capital": "Madrid",
+    "population": 47351567,
+    "interestingFact": "Spain is known for festivals like La Tomatina."
+  },
+  {
+    "id": 24,
+    "countryName": "Thailand",
+    "capital": "Bangkok",
+    "population": 69950850,
+    "interestingFact": "Thailand is known as the Land of Smiles."
+  },
+  {
+    "id": 25,
+    "countryName": "Pakistan",
+    "capital": "Islamabad",
+    "population": 240485658,
+    "interestingFact": "Pakistan has one of the largest irrigation systems in the world."
+  },
+  {
+    "id": 26,
+    "countryName": "Bangladesh",
+    "capital": "Dhaka",
+    "population": 172954319,
+    "interestingFact": "Bangladesh is one of the most densely populated countries."
+  },
+  {
+    "id": 27,
+    "countryName": "Nigeria",
+    "capital": "Abuja",
+    "population": 223804632,
+    "interestingFact": "Nigeria is the most populous country in Africa."
+  },
+  {
+    "id": 28,
+    "countryName": "Kenya",
+    "capital": "Nairobi",
+    "population": 55100587,
+    "interestingFact": "Kenya is famous for wildlife safaris."
+  },
+  {
+    "id": 29,
+    "countryName": "Switzerland",
+    "capital": "Bern",
+    "population": 8773637,
+    "interestingFact": "Switzerland is known for neutrality and banking."
+  },
+  {
+    "id": 30,
+    "countryName": "Netherlands",
+    "capital": "Amsterdam",
+    "population": 17590672,
+    "interestingFact": "Much of the Netherlands is below sea level."
+  }
+]
