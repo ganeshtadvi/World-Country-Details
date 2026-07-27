@@ -47,12 +47,12 @@ export const Footer = () => {
                 </li>
 
                 <li>
-                  <NavLink to="#" target="_blank">
+                  <NavLink to="https://github.com/ganeshtadvi/" target="_blank">
                     Social
                   </NavLink>
                 </li>
                 <li>
-                  <NavLink to="#" target="_blank">
+                  <NavLink to="https://github.com/ganeshtadvi/World-Country-Details" target="_blank">
                     Source Code
                   </NavLink>
                 </li>
