@@ -8,10 +8,7 @@ import { Contact } from "./pages/Contact.jsx";
 import { Country } from "./pages/Country.jsx";
 import { ErrorPage } from "./pages/Errorpage.jsx";
 
-/*extra features we can add:- search country 🔍
-filter by population
-dynamic route /country/:id
-better UI*/
+
 
 const router = createBrowserRouter([
   {
